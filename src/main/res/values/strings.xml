@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="moveBtn">MOVE</string>
+    <string name="rotateBtn">ROTATE</string>
+    <string name="fade_inBtn">FADE IN</string>
+    <string name="fade_outBtn">FADE OUT</string>
+    <string name="magnifyBtn">MAGNIFY</string>
+    <string name="diminishBtn">DIMINISH</string>
+    <string name="startAnimBtn">START ANIMATION</string>
+</resources>
